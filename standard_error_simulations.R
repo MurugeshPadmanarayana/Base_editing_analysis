@@ -1,3 +1,5 @@
+# simulating to estimate standard error
+
 n <- 10
 n_sim <- 10^5
 means <- numeric(n_sim)
